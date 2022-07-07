@@ -30,10 +30,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 =======
-
-
-
-
-Alt-H2
------- Installation
->>>>>>> 131c7795431a08c888fa5fbf48004f8be9ad9b43
