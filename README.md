@@ -2,7 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](file:///Users/furkanerucar/Downloads/Screen%20Shot%202022-07-03%20at%2012.08.32.png)
+![github] <img width="731" alt="Screen Shot 2022-07-03 at 12 08 32" src="https://user-images.githubusercontent.com/97690923/177703298-091835f1-ba1a-409a-94ef-357accbeebd1.png">
+
 
 ## Installation
 
@@ -32,7 +33,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-<img width="731" alt="Screen Shot 2022-07-03 at 12 08 32" src="https://user-images.githubusercontent.com/97690923/177032981-47de8a17-8bec-40ad-aa29-10f3b347c3c5.png">
+
 
 Alt-H2
 ------ Installation
